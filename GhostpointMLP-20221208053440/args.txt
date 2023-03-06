@@ -1,0 +1,12 @@
+checkpoint:	 checkpoints/GhostpointMLP-20221208053440
+msg:	 None
+batch_size:	 32
+model:	 GhostpointMLP
+num_classes:	 15
+epoch:	 600
+num_points:	 1024
+learning_rate:	 0.002
+weight_decay:	 0.05
+smoothing:	 True
+seed:	 3407
+workers:	 4
